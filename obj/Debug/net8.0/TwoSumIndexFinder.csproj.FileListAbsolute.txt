@@ -1,0 +1,14 @@
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\bin\Debug\net8.0\TwoSumIndexFinder.exe
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\bin\Debug\net8.0\TwoSumIndexFinder.deps.json
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\bin\Debug\net8.0\TwoSumIndexFinder.runtimeconfig.json
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\bin\Debug\net8.0\TwoSumIndexFinder.dll
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\bin\Debug\net8.0\TwoSumIndexFinder.pdb
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.AssemblyInfoInputs.cache
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.AssemblyInfo.cs
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.csproj.CoreCompileInputs.cache
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.dll
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\refint\TwoSumIndexFinder.dll
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.pdb
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\TwoSumIndexFinder.genruntimeconfig.cache
+C:\Users\Zehra.turhan\source\repos\TwoSumIndexFinder\TwoSumIndexFinder\obj\Debug\net8.0\ref\TwoSumIndexFinder.dll
